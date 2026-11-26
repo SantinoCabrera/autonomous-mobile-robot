@@ -16,4 +16,4 @@ El desarrollo integra conocimientos de mecánica, electrónica y programación, 
 
 ## Documentación del proyecto
 
-- [01. Introducción general](01%20-%20Introducción%20general.pdf)
+- [01. Introducción general (PDF)](01%20-%20Introduccion%20general%20.pdf)
